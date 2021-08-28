@@ -1,3 +1,5 @@
 # bigdata
 ## segundo semestre
-tercera clase
+**tercera _clase_**
+_big data_
+año 2021
